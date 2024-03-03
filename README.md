@@ -8,3 +8,8 @@ This is a follow-along project from the FSDS class, this project explains how to
 conda create -p venv python==3.8
 conda activate venv/
 ```
+
+### Install required packages
+```
+pip install -r requirements.txt
+```
